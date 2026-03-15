@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# модели
+# *.pt
+# *.onnx
+# *.engine
+
+# системное
+.DS_Store

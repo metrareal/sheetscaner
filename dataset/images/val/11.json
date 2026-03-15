@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sheet",
+      "score": null,
+      "points": [
+        [
+          1.6358024691358537,
+          2.740740740740776
+        ],
+        [
+          1360.895061728395,
+          2.740740740740776
+        ],
+        [
+          1360.895061728395,
+          1021.2592592592592
+        ],
+        [
+          1.6358024691358537,
+          1021.2592592592592
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "11.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1365
+}
